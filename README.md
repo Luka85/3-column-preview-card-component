@@ -7,6 +7,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
   - [Built with](#built-with)
   
 ## Overview
@@ -19,6 +21,10 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Screenshot
 
 ![](./final.png)
+
+### Links
+
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
 
